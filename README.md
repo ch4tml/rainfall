@@ -14,3 +14,7 @@ This provides scripts for developing, testing and building the application.
 ## Development
 
 To start the server, run ```yarn start``` and navigate to http://localhost:3000
+
+## External interface
+
+The app uses Environment Agency rainfall data from the [real-time data API (Beta)](http://environment.data.gov.uk/flood-monitoring/doc/rainfall)
