@@ -1,5 +1,5 @@
 import * as React from "react";
 
-const Home = (): JSX.Element => <h1>Rainfall</h1>;
+const Home = (): JSX.Element => <h2>Rainfall</h2>;
 
 export default Home;
